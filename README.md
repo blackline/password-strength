@@ -14,7 +14,7 @@ jQuery password strength meter is a small plugin to jQuery that provides an easy
 
 To install the script on your Web page follow these instructions:
 
-1) [Download this ZIP](http://simplythebest.net/scripts/ajax/ajax_files/jsquery_pstrength.zip) with jQuery 1.2.1 and jquery.pstrength-min.1.2.js. Unpack the files and upload both to your server.
+1) [Download this ZIP](https://github.com/blackline/password-strength/archive/master.zip) with jQuery 1.2.1 and jquery.pstrength-min.1.2.js. Unpack the files and upload both to your server.
 
 2) Insert this anywhere before the password field on the page:
 ```js
